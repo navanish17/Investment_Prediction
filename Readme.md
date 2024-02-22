@@ -1,0 +1,1 @@
+This is investment prediction project in which we will predict the stock price to do proper investment using Machine learning.
